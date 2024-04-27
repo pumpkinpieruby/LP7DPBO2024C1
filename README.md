@@ -45,3 +45,6 @@ Ini adalah implementasi sederhana dari permainan Flappy Bird menggunakan Java Sw
 
 ## Kredit
 Permainan ini dikembangkan oleh [Nama Anda] sebagai proyek sederhana menggunakan Java Swing.
+
+## Dokumentasi 
+![dokum](<Screenshot 2024-04-27 201630-1.png>)
